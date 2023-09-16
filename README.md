@@ -1,4 +1,4 @@
-<h1 align="center">Calculadora De IMC basica
+<h1 align="center">Focus Timer - contador
 </h1>
 <img alt="jodo da memoria" src="./assets/project/desktop-light.png">
 
@@ -31,21 +31,27 @@ Esse projeto foi feito apartir do aprendizado do curso Explorer da rocketseat
 
 ## imagens do projeto
 
-<div align="center" >
-<img alt="jodo da memoria" src="./assets/desktop.png" width="100%" />
-
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:3px" >
+    <div style="min-width:200;max-width:300" >
+        <p>dark mode</p>
+    <img alt="jodo da memoria" src="./assets/project/desktop-dark.png"  />
+    </div>
+    <div style="min-width:200;max-width:300">
+        <p>dark mode</p>
+    <img alt="jodo da memoria" src="./assets/project/desktop-light.png" />
+    </div>
 </div>
 
 ## imagens do projeto em display menores
 
-<div align="center" style="display:flex" >
-    <div>
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px" >
+    <div style="min-width:200;max-width:300" >
         <p>dark mode</p>
-    <img alt="jodo da memoria" src="./assets/project/desktop-dark.png" width="50%" />
+    <img alt="jodo da memoria" src="./assets/project/mobile-dark.png"  />
     </div>
-      <div>
+    <div style="min-width:200;max-width:300">
         <p>dark mode</p>
-    <img alt="jodo da memoria" src="./assets/project/desktop-light.png" width="50%" />
+    <img alt="jodo da memoria" src="./assets/project/mobile-light.png" />
     </div>
     
    
